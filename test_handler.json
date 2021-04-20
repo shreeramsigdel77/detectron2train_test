@@ -1,0 +1,8 @@
+[
+  {
+    "p": 1,
+    "per_channel": false,
+    "frequency": 1,
+    "class_name": "Invert"
+  }
+]
